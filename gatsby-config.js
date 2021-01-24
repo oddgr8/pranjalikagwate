@@ -6,10 +6,14 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE;
 
 module.exports = {
   siteMetadata: {
-    // You can overwrite values here that are used for the SEO component
-    // Of course you can also add new values here to query them like usual
-    // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteTitle: `Breathe`,
+    siteTitleAlt: `Breathe to be fit`,
+    siteHeadline: `Breathe to be fit`,
+    siteUrl: `https://oddgr8.github.io/pranjalikagwate`,
+    siteDescription: `Fitness solutions for everybody`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`, // Used by og:image
+    author: `Onkar`,
   },
   plugins: [
     {
@@ -26,9 +30,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Breathe to be fit`,
+        short_name: `Breathe`,
+        description: `Fitness solutions for everybody`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
