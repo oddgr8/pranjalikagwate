@@ -13,7 +13,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /framework-06f646d936b841f99ebd.js
   Cache-Control: public, max-age=31536000, immutable
-/app-d92a24d6b8afc5c4910d.js
+/app-1641b3acde4bf6598dc2.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
@@ -22,14 +22,14 @@
 /pranjalikagwate/
   Link: </pranjalikagwate/webpack-runtime-5e5c801c4300a48e3578.js>; rel=preload; as=script
   Link: </pranjalikagwate/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
-  Link: </pranjalikagwate/app-d92a24d6b8afc5c4910d.js>; rel=preload; as=script
+  Link: </pranjalikagwate/app-1641b3acde4bf6598dc2.js>; rel=preload; as=script
   Link: </pranjalikagwate/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-100ab5ffe52c5c44e9be.js>; rel=preload; as=script
   Link: </pranjalikagwate/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </pranjalikagwate/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
 /pranjalikagwate/offline-plugin-app-shell-fallback/
   Link: </pranjalikagwate/webpack-runtime-5e5c801c4300a48e3578.js>; rel=preload; as=script
   Link: </pranjalikagwate/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
-  Link: </pranjalikagwate/app-d92a24d6b8afc5c4910d.js>; rel=preload; as=script
+  Link: </pranjalikagwate/app-1641b3acde4bf6598dc2.js>; rel=preload; as=script
   Link: </pranjalikagwate/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js>; rel=preload; as=script
   Link: </pranjalikagwate/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </pranjalikagwate/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
